@@ -1,3 +1,3 @@
 Login
-![image](https://user-images.githubusercontent.com/46204560/115136711-3f1c1980-9fe7-11eb-9921-a2dee76655cb.png)
-![image](https://user-images.githubusercontent.com/46204560/115136732-5f4bd880-9fe7-11eb-9b0f-487fd1d77dbd.png)
+![image](https://user-images.githubusercontent.com/46204560/115136765-8e624a00-9fe7-11eb-8598-39369e8603c9.png)
+![image](https://user-images.githubusercontent.com/46204560/115136780-a3d77400-9fe7-11eb-8118-9d94d9441f5a.png)
